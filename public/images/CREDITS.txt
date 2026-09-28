@@ -1,0 +1,12 @@
+Landing-page photos are CC0 (public domain) from StockSnap.io — free for commercial use, no attribution required.
+hero-serum      https://stocksnap.io/photo/LRSAT4NCLS
+hero-glow       https://stocksnap.io/photo/CC9TYE8VJY
+cat-skincare    https://stocksnap.io/photo/MLJXK2FAUO
+cat-makeup      https://stocksnap.io/photo/G40JKFC5I5
+cat-haircare    https://stocksnap.io/photo/ALVGSSERRY
+cat-bodycare    https://stocksnap.io/photo/K3V44MLA0J
+story-ritual    https://stocksnap.io/photo/QGRV9ZQ8U6
+edit-blush      https://stocksnap.io/photo/K00RNBNJGC
+edit-serum      https://stocksnap.io/photo/PBIACLTCLJ
+edit-brushes    https://stocksnap.io/photo/EE2H5SKEPA
+newsletter      https://stocksnap.io/photo/EXKVSL1OHJ
